@@ -1,5 +1,9 @@
 # ACP UI
 
+<a href="https://apps.microsoft.com/detail/9P76NGS1VF2L?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
 A modern, cross-platform desktop client for the [Agent Client Protocol (ACP)](https://agentclientprotocol.com/). Connect to AI coding agents like GitHub Copilot, Claude Code, Gemini CLI, Qwen Code, Codex CLI, OpenCode, OpenClaw, and any ACP-compatible agent from a unified interface.
 
 ![ACP UI Screenshot](assets/screenshot.png)
